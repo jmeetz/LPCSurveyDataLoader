@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibraryPublishingDataLoader": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Projects\\GitHub\\jifunet\\LibraryPublishingDataLoader\\LibraryPublishingDataLoader\\data\\input\\Library Publishing Directory Data Set 20220116\\LPDirectory Datasets by Year\" \"D:\\Projects\\GitHub\\jifunet\\LibraryPublishingDataLoader\\LibraryPublishingDataLoader\\data\\output\""
+    }
+  }
+}
